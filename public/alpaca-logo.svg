@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    .alpaca { fill: #f97316; }
+    .eye { fill: #000; }
+    .glasses { fill: none; stroke: #000; stroke-width: 2; }
+  </style>
+  <path class="alpaca" d="M50 5C25 5 5 25 5 50s20 45 45 45 45-20 45-45S75 5 50 5zm0 80c-19.33 0-35-15.67-35-35s15.67-35 35-35 35 15.67 35 35-15.67 35-35 35z"/>
+  <circle class="eye" cx="40" cy="40" r="5"/>
+  <circle class="eye" cx="60" cy="40" r="5"/>
+  <path class="glasses" d="M35 40h30M40 35v10M60 35v10"/>
+  <path class="alpaca" d="M50 55c-8 0-15 5-15 10s7 10 15 10 15-5 15-10-7-10-15-10z"/>
+</svg>
