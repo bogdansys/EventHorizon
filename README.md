@@ -21,8 +21,7 @@ Welcome to one of my most ambitious passion projects—a labor of love designed 
 
 ## 🙌 Contribution
 
-Your ideas, suggestions, and contributions are the heartbeat of this project. Together, we can create a resource that truly benefits the global cybersecurity community. Check out our [Contributing Guidelines](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets/blob/main/.github/CONTRIBUTING.md) to get started. Your expertise can make a difference!
-
+Your ideas, suggestions, and contributions are the heartbeat of this project. Together, we can create a resource that truly benefits the global cybersecurity community. 
 ## 🗂️ Sections Overview
 
 ### 🎙️ Security Talks and Videos
@@ -79,3 +78,7 @@ This project is crafted using cutting-edge web technologies to ensure a seamless
 ---
 
 Explore, contribute, and share this resource hub with others in the cybersecurity community. Together, we can make this the ultimate go-to destination for all your cybersecurity needs. 🌟
+
+# Acknowledgements
+We extend our gratitude to ByteSnipers for their comprehensive and invaluable resources. Their curated lists have significantly contributed to the development of this project.
+You can check out their work here: (https://github.com/ByteSnipers/awesome-pentest-cheat-sheets)
