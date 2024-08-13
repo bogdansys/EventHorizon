@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+.idea/AlpacaExploit.iml
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/vcs.xml
