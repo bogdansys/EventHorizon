@@ -6,7 +6,7 @@
 Welcome to one of my most ambitious passion projects—a labor of love designed to serve the cybersecurity community with an open-source platform that brings together all the resources you need in one place. This is more than just a collection; it’s a commitment to empowering every cybersecurity enthusiast, professional, and learner on their journey to mastering the art of security.
 
 ### Disclaimer: 
-This is still a work in progress since it s a community oriented projected so right now I am working on creating the commuinity behind it, which is planned with the launch of pwnGPT. 
+This is still a work in progress since it s a community oriented projected so right now I am working on creating the commuinity behind it, which is planned with the launch of pwnGPT.  (a massive exploitation tool I am working on.)
 
 ## 🚀 What you can find in this website:
 
