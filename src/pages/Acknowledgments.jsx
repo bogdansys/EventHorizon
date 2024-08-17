@@ -39,7 +39,7 @@ const Acknowledgments = () => {
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.2, type: 'spring', stiffness: 100 }}
         >
-          Behind every successful project, there is a network of support that deserves recognition. We extend our heartfelt thanks to the following contributors to AlpacaExploit.
+          Behind every successful project, there is a network of support that deserves recognition. We extend our heartfelt thanks to the following contributors to EventHorizon.
         </motion.p>
 
         <motion.div

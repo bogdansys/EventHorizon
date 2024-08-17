@@ -30,7 +30,7 @@ const Index = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, type: "spring", stiffness: 50 }}
           >
-            <h2 className="text-4xl sm:text-5xl md:text-7xl font-bold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-yellow-300 tracking-tight drop-shadow-[0_5px_5px_rgba(255,165,0,0.3)]">Welcome to AlpacaExploit</h2>
+            <h2 className="text-4xl sm:text-5xl md:text-7xl font-bold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-yellow-300 tracking-tight drop-shadow-[0_5px_5px_rgba(255,165,0,0.3)]">Welcome to EventHorizon</h2>
             <p className="text-lg sm:text-xl md:text-2xl text-gray-300 mb-6 max-w-3xl mx-auto backdrop-blur-sm bg-black bg-opacity-30 p-4 sm:p-6 rounded-lg shadow-lg">Your ultimate wiki for penetration testing and cybersecurity in the digital frontier</p>
             <p className="text-base sm:text-lg md:text-xl text-gray-400 mb-10 max-w-3xl mx-auto backdrop-blur-sm bg-black bg-opacity-30 p-4 sm:p-6 rounded-lg shadow-lg">Explore our comprehensive guides, methodologies, and tools for ethical hacking and security testing. Our collection of cheat sheets and checklists will save you time and enhance your security practices.</p>
             <Button className="bg-gradient-to-r from-orange-500 to-yellow-500 hover:from-orange-600 hover:to-yellow-600 text-white text-base sm:text-lg px-6 sm:px-10 py-3 sm:py-4 rounded-full shadow-lg transform transition hover:scale-105 hover:shadow-orange-500/50 animate-pulse">
@@ -114,7 +114,7 @@ const Index = () => {
           transition={{ duration: 1, delay: 0.5, type: "spring", stiffness: 50 }}
         >
           <h2 className="text-5xl font-bold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-yellow-300">Contribute to the Collective Knowledge</h2>
-          <p className="text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">AlpacaExploit is an open-source wiki for ethical hacking and penetration testing, deployed on Vercel.</p>
+          <p className="text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">EventHorizon is an open-source wiki for ethical hacking and penetration testing, deployed on Vercel.</p>
           <p className="text-xl text-gray-400 mb-8 max-w-3xl mx-auto">To contribute, make a pull request on GitHub with your changes or additions to any section.</p>
           <Button 
             className="bg-gradient-to-r from-orange-500 to-yellow-500 hover:from-orange-600 hover:to-yellow-600 text-white text-lg px-10 py-4 rounded-full shadow-lg transform transition hover:scale-105 hover:shadow-orange-500/50"
@@ -129,8 +129,8 @@ const Index = () => {
       <footer className="bg-gradient-to-t from-black to-gray-900 backdrop-filter backdrop-blur-lg py-8 sm:py-12 px-4 sm:px-6 lg:px-8 mt-16 border-t-2 border-orange-500">
         <div className="container mx-auto flex flex-col items-center">
           <div className="mb-8 flex items-center">
-            <img src="/alpaca-logo.svg" alt="AlpacaExploit Logo" className="h-12 w-12 sm:h-16 sm:w-16 mr-3 animate-bounce" />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-yellow-300 font-bold text-2xl sm:text-3xl">AlpacaExploit</span>
+            <img src="/alpaca-logo.svg" alt="EventHorizon Logo" className="h-12 w-12 sm:h-16 sm:w-16 mr-3 animate-bounce" />
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-500 to-yellow-300 font-bold text-2xl sm:text-3xl">EventHorizon</span>
           </div>
           <nav className="mb-8">
             <ul className="flex flex-wrap justify-center space-x-4 sm:space-x-8">
@@ -152,7 +152,7 @@ const Index = () => {
           </div>
         </div>
         <div className="text-center text-base sm:text-lg text-gray-400">
-          © 2024 AlpacaExploit. Created by Mihai Iordache. All rights reserved. Hack responsibly.
+          © 2024 EventHorizon. Created by Mihai Iordache. All rights reserved. Hack responsibly.
         </div>
       </footer>
     </div>

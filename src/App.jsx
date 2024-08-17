@@ -34,7 +34,7 @@ const App = () => {
         </main>
         <footer className="bg-gray-900 text-white py-4">
           <div className="container mx-auto px-4 text-center">
-            <p>&copy; 2024 AlpacaExploit. All rights reserved.</p>
+            <p>&copy; 2024 EvenHorizon. All rights reserved.</p>
             <Link to="/acknowledgments" className="flex items-center justify-center mt-2 text-orange-500 hover:text-orange-400 transition-colors">
               <Heart className="h-4 w-4 mr-1" />
               Acknowledgments
