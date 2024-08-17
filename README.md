@@ -101,5 +101,5 @@ This project is crafted using cutting-edge web technologies to ensure a seamless
 Explore, contribute, and share this resource hub with others in the cybersecurity community. Together, we can make this the ultimate go-to destination for all your cybersecurity needs. 🌟
 
 # Acknowledgements
-We extend our gratitude to ByteSnipers for their comprehensive and invaluable resources. Their curated lists have significantly contributed to the development of this project.
+I wish to extend my gratitude to ByteSnipers for their comprehensive and invaluable resources. Their curated lists have significantly contributed to the development of this project.
 You can check out their work here: (https://github.com/ByteSnipers/awesome-pentest-cheat-sheets)
