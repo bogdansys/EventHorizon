@@ -2,6 +2,9 @@
 
 Welcome to one of my most ambitious passion projects—a labor of love designed to serve the cybersecurity community with an open-source platform that brings together all the resources you need in one place. This is more than just a collection; it’s a commitment to empowering every cybersecurity enthusiast, professional, and learner on their journey to mastering the art of security.
 
+### Disclaimer: 
+This is still a work in progress since it s a community oriented projected so right now I am working on creating the commuinity behind it, which is planned with the launch of pwnGPT. 
+
 ## 🚀 What you can find in this website:
 
 - [🎙️ Security Talks and Videos](#security-talks-and-videos)
@@ -18,6 +21,21 @@ Welcome to one of my most ambitious passion projects—a labor of love designed 
 - [🔧 Tools](#tools)
 - [📦 Payloads](#payloads)
 - [💻 Programming](#programming)
+
+## 🙌 Contribution
+
+Your ideas, suggestions, and contributions are the heartbeat of this project. Together, we can create a resource that truly benefits the global cybersecurity community. 
+
+## 🖼️ Screenshots
+
+![Screenshot 1](1.png)
+![Screenshot 2](2.png)
+![Screenshot 3](3.png)
+
+## 🗂️ Sections Overview
+
+### 🎙️ Security Talks and Videos
+Immerse yourself in a curated collection of the most insightful
 
 ## 🙌 Contribution
 
